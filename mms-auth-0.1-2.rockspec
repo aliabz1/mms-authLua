@@ -2,7 +2,7 @@ package = "mms-auth"
 version = "0.1-0"
 supported_platforms = {"linux", "macosx"}
 source = {
-  url = "git://github.com/aliabz1/mms-authLua",
+  url = "git@github.com:aliabz1/mms-authLua.git",
   tag = "0.1"
 }
 description = {
