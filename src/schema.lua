@@ -1,7 +1,7 @@
 local typedefs = require "kong.db.schema.typedefs"
 
 return {
-  name = "mms-auth",
+  name = "mms-externalauth",
   fields = {
     { protocols = typedefs.protocols_http },
     { consumer = typedefs.no_consumer },
